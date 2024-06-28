@@ -1,4 +1,4 @@
-# Go lang downloader
+# Go lang Multi File Uploader
 
 This is a golang multifuile uploader funtion, its capabe of uploading certain files to selected directory
 
